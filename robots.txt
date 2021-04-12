@@ -1,0 +1,3 @@
+Sitemap: https://zomeru-natours.netlify.app/sitemap.xml
+User-agent:*
+Disallow:

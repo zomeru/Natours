@@ -1,5 +1,5 @@
 # Natours
 
-This is a Tour Booking website user interface I've built and designed by Jonas Schmedtmann. (Thanks to his udemy course)
+This is a Tour Booking website user interface that I've built through Advanced CSS course by Jonas Schmedtmann from Udemy.
 
 https://zomeru-natours.netlify.app
